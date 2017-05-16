@@ -8,29 +8,65 @@
 		<dict>
 			<key>isShown</key>
 			<false/>
+			<key>orderHint</key>
+			<integer>0</integer>
 		</dict>
 		<key>Pods-OrigamiMobileCenter-tvOS.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
+			<key>orderHint</key>
+			<integer>4</integer>
 		</dict>
 		<key>Pods-OrigamiMobileCenter-tvOSTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
+			<key>orderHint</key>
+			<integer>5</integer>
 		</dict>
 		<key>Pods-OrigamiMobileCenter.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
+			<key>orderHint</key>
+			<integer>3</integer>
 		</dict>
 		<key>Pods-OrigamiMobileCenterTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
+			<key>orderHint</key>
+			<integer>6</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
-	<dict/>
+	<dict>
+		<key>3425DD3C577770EF1E642E66C3088D9E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>35C0FDEB6348D853A717AE3774C29863</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7E6A1B6376C907A6ABEC689DC513C3F4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C45AB63A8F22317E8C24CA47E97ABB62</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D4044DFFD2539304DABCC80EBCF74059</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
 </dict>
 </plist>
