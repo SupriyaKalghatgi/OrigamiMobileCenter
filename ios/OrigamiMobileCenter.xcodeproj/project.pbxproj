@@ -1310,6 +1310,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = io.market.nativebase.geekyants.origamimobilecenter;
 				PRODUCT_NAME = OrigamiMobileCenter;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1335,6 +1336,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = io.market.nativebase.geekyants.origamimobilecenter;
 				PRODUCT_NAME = OrigamiMobileCenter;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
