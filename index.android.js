@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
   },
   instructions: {
     textAlign: 'center',
-    color: 'red',
+    color: 'green',
     marginBottom: 5,
   },
 });
