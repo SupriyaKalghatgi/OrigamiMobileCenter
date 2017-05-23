@@ -13,7 +13,13 @@
 		00C302E91ABCBA2D00DB3ED1 /* libRCTNetwork.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302DC1ABCB9D200DB3ED1 /* libRCTNetwork.a */; };
 		00C302EA1ABCBA2D00DB3ED1 /* libRCTVibration.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302E41ABCB9EE00DB3ED1 /* libRCTVibration.a */; };
 		00E356F31AD99517003FC87E /* OrigamiMobileCenterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* OrigamiMobileCenterTests.m */; };
-		098E360237D05F5C458BE4BB /* libPods-OrigamiMobileCenter-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D4F88964B67BD85656453898 /* libPods-OrigamiMobileCenter-tvOSTests.a */; };
+		0473C17E77C941E0BD35D371 /* Roboto_medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0EB6BDA2949E472DA6C4E5C4 /* Roboto_medium.ttf */; };
+		0688E236CDA64AE49429B716 /* Rubik-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0E468071B5424C659738BD1A /* Rubik-BoldItalic.ttf */; };
+		07CA841EE6B340F78BCFB4DB /* Rubik-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8DB13F99C35A4BEE893D41F1 /* Rubik-Bold.ttf */; };
+		0A5A7936792C46139C6E0EAF /* Roboto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3A97D9C27C8E47B8B6C97022 /* Roboto.ttf */; };
+		0BEF0834C2414669BFA6C85E /* Rubik-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5F235569FC1241FBB971962D /* Rubik-MediumItalic.ttf */; };
+		0DC32790A8224E8D9940ABB5 /* MobileCenter-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = A1E6005D049B43D386E2B9A7 /* MobileCenter-Config.plist */; };
+		0F84A9D168D34DA7BAA2FE5D /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 24A5C83646C0480AB3ED2380 /* Foundation.ttf */; };
 		133E29F31AD74F7200F7D852 /* libRCTLinking.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 78C398B91ACF4ADC00677621 /* libRCTLinking.a */; };
 		139105C61AF99C1200B5F7CC /* libRCTSettings.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 139105C11AF99BAD00B5F7CC /* libRCTSettings.a */; };
 		139FDEF61B0652A700C62182 /* libRCTWebSocket.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 139FDEF41B06529B00C62182 /* libRCTWebSocket.a */; };
@@ -23,6 +29,7 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		140ED2AC1D01E1AD002B40FF /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
 		146834051AC3E58100842450 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
+		237C12A1BA6F485EA316773F /* Arial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 573D550EEE464A7784A37F97 /* Arial.ttf */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
@@ -34,14 +41,43 @@
 		2D02E4C71E0B4AEC006451C7 /* libRCTText-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3E941DF850E9000B6D8A /* libRCTText-tvOS.a */; };
 		2D02E4C81E0B4AEC006451C7 /* libRCTWebSocket-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3E991DF850E9000B6D8A /* libRCTWebSocket-tvOS.a */; };
 		2D02E4C91E0B4AEC006451C7 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA31DF850E9000B6D8A /* libReact.a */; };
+		2D277CE7D1EE47549A3FA875 /* Rubik-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 78E47DCCE64B4EC1BA30F0B6 /* Rubik-Medium.ttf */; };
 		2DCD954D1E0B4F2C00145EB5 /* OrigamiMobileCenterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* OrigamiMobileCenterTests.m */; };
-		4062E56AA48E4E5A8ABBFB5A /* MobileCenter-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = B5FCBB9439D7496B91E8FFDA /* MobileCenter-Config.plist */; };
+		2E16160980E947EAA6AA2B09 /* SanFrancisco.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ECA3692732814295853DD84C /* SanFrancisco.ttf */; };
+		314AE3E168634C8C81467357 /* Courier New.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7F6DA26CE0834A14AC2D9000 /* Courier New.ttf */; };
+		31AD6BBC0C5E4D2D978F2BF4 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BB1815B3D77449CBA0B6FBAB /* EvilIcons.ttf */; };
+		38BAC9BAD02748229B46EA2D /* Rubik-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EBBCF1EDB833422B8F7F2423 /* Rubik-Italic.ttf */; };
+		439F1E536D904022ABFA8E2E /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A2F32CA18A8C456A9EF351BB /* FontAwesome.ttf */; };
+		4773246AF3D445E38C5ABE8E /* Rubik-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A6DFAF9D06004CBFA9ACB765 /* Rubik-LightItalic.ttf */; };
+		483D197B88334A52A28864BF /* Microsoft Sans Serif.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96111E73272A46FCAB1D5292 /* Microsoft Sans Serif.ttf */; };
+		4C583357D4EA4D95A8EA4FC2 /* Skia.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2A163C0D88234E01A346644D /* Skia.ttf */; };
+		5A9DFCEA3F874E6D93E0433C /* Rubik-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 243AF5D8919A4D4E8DCCF343 /* Rubik-Black.ttf */; };
 		5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
-		7E0548FBCCABF89820AB2D53 /* libPods-OrigamiMobileCenterTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 330F195D147F830478403C92 /* libPods-OrigamiMobileCenterTests.a */; };
-		7FC500B20D8344E1A82B959E /* libRNAnalytics.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C0BEBBAC848444BBDF386E7 /* libRNAnalytics.a */; };
+		6352BD9903254711A3CD496A /* libRNCrashes.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 20CBD33C7BBA4FC79A2C8CF0 /* libRNCrashes.a */; };
+		707946B8BD5949C1BD895E31 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A483BC5AF4C1462B9BED12EB /* Octicons.ttf */; };
+		737D854588E74521BC0A4247 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6845D1FD733E4BB9B876458E /* Ionicons.ttf */; };
+		7A4D0337016453EDAC63A08B /* libPods-OrigamiMobileCenter.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DF24A8D3F69415A2F644BBE2 /* libPods-OrigamiMobileCenter.a */; };
+		7FA690FD2CE845C19F7E0A83 /* Comic Sans MS.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 09621A86CACC4E56A19D2933 /* Comic Sans MS.ttf */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
-		996E40B21994D7CD4A8F8F21 /* libPods-OrigamiMobileCenter-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9070B73779B2902FE2253E71 /* libPods-OrigamiMobileCenter-tvOS.a */; };
-		A332E22B8C6383197876768C /* libPods-OrigamiMobileCenter.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 42110704C30C41CB775C3DA6 /* libPods-OrigamiMobileCenter.a */; };
+		974131CF20F34858B02ADB73 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 09575834624443708ADE1E1A /* MaterialIcons.ttf */; };
+		97AD98B8B678464B9DF140AE /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 067DC2B983FD4B32B3DA8100 /* Zocial.ttf */; };
+		97DCE18AA8924A55BDBE0FB9 /* Rubik-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 074FB4B60D3F417B9788AE98 /* Rubik-BlackItalic.ttf */; };
+		9B33BC2B6E3B4B1DA7A66172 /* Rubik-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C9EC499100A0425F8E47EE70 /* Rubik-Regular.ttf */; };
+		9D2E85368524498696D6EDD5 /* SanFranciscoBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E4BBB65250D44FC0A2DA51A6 /* SanFranciscoBold.ttf */; };
+		A48C663EB65543458F23D17F /* rubicon-icon-font.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3FA28F52E01D49208ED84160 /* rubicon-icon-font.ttf */; };
+		A954467602D245C28F7596CF /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 48AD1792C1EE4C3181D9F320 /* Entypo.ttf */; };
+		AF002B64DFE947A4AFDEB9F2 /* SF-UI-Text-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 79F54220C1AA40A3853504C5 /* SF-UI-Text-Regular.otf */; };
+		BB78EBE575DA40F6B1B80588 /* Rubik-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CDFE3441B80746EB9BC5CAB3 /* Rubik-Light.ttf */; };
+		C32C1668C42A4048AAAFAF99 /* SanFranciscoThin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 65E40591310A47D19FB83698 /* SanFranciscoThin.ttf */; };
+		C3F9B63CE73E4CCF9D05A642 /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 72F249C8119148598533BDCA /* SimpleLineIcons.ttf */; };
+		C9727502E3279FC25F51FA27 /* libPods-OrigamiMobileCenter-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BDEFEADA71F23391F075092 /* libPods-OrigamiMobileCenter-tvOSTests.a */; };
+		CB62FE442B15CF5AE3E5AC52 /* libPods-OrigamiMobileCenter-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0B30428A7D8F6CD9B8716BF0 /* libPods-OrigamiMobileCenter-tvOS.a */; };
+		D3168AB27E0F4EB2B4FC0D9F /* Times New Roman.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 867B46E5B23D40F4B63109EE /* Times New Roman.ttf */; };
+		D453AE37FDEB4E85AE11BE80 /* Arial Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6E8AB6661EBC4A6EADA08852 /* Arial Black.ttf */; };
+		E2BD14D6DF41471FBDB4B67A /* Andale Mono.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6B3B550196A54EE29E2CEF4B /* Andale Mono.ttf */; };
+		E6677B9A0881A82E00E0B696 /* libPods-OrigamiMobileCenterTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CC5FBEEED41FCEBD8230F16 /* libPods-OrigamiMobileCenterTests.a */; };
+		EA584410946D4DE09B685DCF /* libRNAnalytics.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 481D0152C5DD475596622B55 /* libRNAnalytics.a */; };
+		F71EF4A08A5244AC954EA32F /* Georgia.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 248281FFBB9447D5A1F11121 /* Georgia.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -234,12 +270,19 @@
 			remoteGlobalIDString = 58B5119B1A9E6C1200147676;
 			remoteInfo = RCTText;
 		};
-		94E963C01ECB2D7D002267C0 /* PBXContainerItemProxy */ = {
+		945D1F411ED43BEB0073EBDD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = D96F4B3B500646BE97BF9145 /* RNAnalytics.xcodeproj */;
+			containerPortal = B78523A4ECDB4B908AB9F1FF /* RNAnalytics.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 548694001D8384E600E6685A;
 			remoteInfo = RNAnalytics;
+		};
+		945D1F841ED43C9B0073EBDD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5D1C4FA9E8254F43B4CD4545 /* RNCrashes.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 5419C2701D824AA700DDF3A1;
+			remoteInfo = RNCrashes;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -253,7 +296,13 @@
 		00E356EE1AD99517003FC87E /* OrigamiMobileCenterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OrigamiMobileCenterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* OrigamiMobileCenterTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OrigamiMobileCenterTests.m; sourceTree = "<group>"; };
-		066868316D19248B0255AD9D /* Pods-OrigamiMobileCenter-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrigamiMobileCenter-tvOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-OrigamiMobileCenter-tvOS/Pods-OrigamiMobileCenter-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		067DC2B983FD4B32B3DA8100 /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/native-base/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
+		074FB4B60D3F417B9788AE98 /* Rubik-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Rubik-BlackItalic.ttf"; path = "../node_modules/native-base/Fonts/Rubik-BlackItalic.ttf"; sourceTree = "<group>"; };
+		09575834624443708ADE1E1A /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/native-base/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
+		09621A86CACC4E56A19D2933 /* Comic Sans MS.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Comic Sans MS.ttf"; path = "../node_modules/native-base/Fonts/Comic Sans MS.ttf"; sourceTree = "<group>"; };
+		0B30428A7D8F6CD9B8716BF0 /* libPods-OrigamiMobileCenter-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrigamiMobileCenter-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0E468071B5424C659738BD1A /* Rubik-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Rubik-BoldItalic.ttf"; path = "../node_modules/native-base/Fonts/Rubik-BoldItalic.ttf"; sourceTree = "<group>"; };
+		0EB6BDA2949E472DA6C4E5C4 /* Roboto_medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Roboto_medium.ttf; path = "../node_modules/native-base/Fonts/Roboto_medium.ttf"; sourceTree = "<group>"; };
 		139105B61AF99BAD00B5F7CC /* RCTSettings.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTSettings.xcodeproj; path = "../node_modules/react-native/Libraries/Settings/RCTSettings.xcodeproj"; sourceTree = "<group>"; };
 		139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTWebSocket.xcodeproj; path = "../node_modules/react-native/Libraries/WebSocket/RCTWebSocket.xcodeproj"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* OrigamiMobileCenter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OrigamiMobileCenter.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -264,25 +313,56 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = OrigamiMobileCenter/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = OrigamiMobileCenter/main.m; sourceTree = "<group>"; };
 		146833FF1AC3E56700842450 /* React.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = React.xcodeproj; path = "../node_modules/react-native/React/React.xcodeproj"; sourceTree = "<group>"; };
-		1A3F1DB2DD2777B3E3AA2CD7 /* Pods-OrigamiMobileCenterTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrigamiMobileCenterTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-OrigamiMobileCenterTests/Pods-OrigamiMobileCenterTests.debug.xcconfig"; sourceTree = "<group>"; };
+		1CC5FBEEED41FCEBD8230F16 /* libPods-OrigamiMobileCenterTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrigamiMobileCenterTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		20CBD33C7BBA4FC79A2C8CF0 /* libRNCrashes.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNCrashes.a; sourceTree = "<group>"; };
+		243AF5D8919A4D4E8DCCF343 /* Rubik-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Rubik-Black.ttf"; path = "../node_modules/native-base/Fonts/Rubik-Black.ttf"; sourceTree = "<group>"; };
+		248281FFBB9447D5A1F11121 /* Georgia.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Georgia.ttf; path = "../node_modules/native-base/Fonts/Georgia.ttf"; sourceTree = "<group>"; };
+		24A5C83646C0480AB3ED2380 /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/native-base/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
+		29402443612D98DA8EF46622 /* Pods-OrigamiMobileCenter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrigamiMobileCenter.release.xcconfig"; path = "Pods/Target Support Files/Pods-OrigamiMobileCenter/Pods-OrigamiMobileCenter.release.xcconfig"; sourceTree = "<group>"; };
+		2A163C0D88234E01A346644D /* Skia.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Skia.ttf; path = "../node_modules/native-base/Fonts/Skia.ttf"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* OrigamiMobileCenter-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "OrigamiMobileCenter-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* OrigamiMobileCenter-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "OrigamiMobileCenter-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		330F195D147F830478403C92 /* libPods-OrigamiMobileCenterTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrigamiMobileCenterTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		42110704C30C41CB775C3DA6 /* libPods-OrigamiMobileCenter.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrigamiMobileCenter.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3A97D9C27C8E47B8B6C97022 /* Roboto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Roboto.ttf; path = "../node_modules/native-base/Fonts/Roboto.ttf"; sourceTree = "<group>"; };
+		3FA28F52E01D49208ED84160 /* rubicon-icon-font.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "rubicon-icon-font.ttf"; path = "../node_modules/native-base/Fonts/rubicon-icon-font.ttf"; sourceTree = "<group>"; };
+		481D0152C5DD475596622B55 /* libRNAnalytics.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNAnalytics.a; sourceTree = "<group>"; };
+		48AD1792C1EE4C3181D9F320 /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/native-base/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
+		573D550EEE464A7784A37F97 /* Arial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Arial.ttf; path = "../node_modules/native-base/Fonts/Arial.ttf"; sourceTree = "<group>"; };
+		5D1C4FA9E8254F43B4CD4545 /* RNCrashes.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = RNCrashes.xcodeproj; path = "../node_modules/mobile-center-crashes/ios/RNCrashes.xcodeproj"; sourceTree = "<group>"; };
 		5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTAnimation.xcodeproj; path = "../node_modules/react-native/Libraries/NativeAnimation/RCTAnimation.xcodeproj"; sourceTree = "<group>"; };
-		6B0EF9970875CB0944F375E9 /* Pods-OrigamiMobileCenter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrigamiMobileCenter.release.xcconfig"; path = "Pods/Target Support Files/Pods-OrigamiMobileCenter/Pods-OrigamiMobileCenter.release.xcconfig"; sourceTree = "<group>"; };
+		5F235569FC1241FBB971962D /* Rubik-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Rubik-MediumItalic.ttf"; path = "../node_modules/native-base/Fonts/Rubik-MediumItalic.ttf"; sourceTree = "<group>"; };
+		65E40591310A47D19FB83698 /* SanFranciscoThin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SanFranciscoThin.ttf; path = "../node_modules/native-base/Fonts/SanFranciscoThin.ttf"; sourceTree = "<group>"; };
+		6845D1FD733E4BB9B876458E /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/native-base/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
+		6B3B550196A54EE29E2CEF4B /* Andale Mono.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Andale Mono.ttf"; path = "../node_modules/native-base/Fonts/Andale Mono.ttf"; sourceTree = "<group>"; };
+		6C77A803E72E7EE11964D677 /* Pods-OrigamiMobileCenter-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrigamiMobileCenter-tvOSTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-OrigamiMobileCenter-tvOSTests/Pods-OrigamiMobileCenter-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		6E8AB6661EBC4A6EADA08852 /* Arial Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Arial Black.ttf"; path = "../node_modules/native-base/Fonts/Arial Black.ttf"; sourceTree = "<group>"; };
+		72F249C8119148598533BDCA /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/native-base/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
-		7C0BEBBAC848444BBDF386E7 /* libRNAnalytics.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNAnalytics.a; sourceTree = "<group>"; };
+		78E47DCCE64B4EC1BA30F0B6 /* Rubik-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Rubik-Medium.ttf"; path = "../node_modules/native-base/Fonts/Rubik-Medium.ttf"; sourceTree = "<group>"; };
+		79F54220C1AA40A3853504C5 /* SF-UI-Text-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-UI-Text-Regular.otf"; path = "../node_modules/native-base/Fonts/SF-UI-Text-Regular.otf"; sourceTree = "<group>"; };
+		7BDEFEADA71F23391F075092 /* libPods-OrigamiMobileCenter-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrigamiMobileCenter-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7F6DA26CE0834A14AC2D9000 /* Courier New.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Courier New.ttf"; path = "../node_modules/native-base/Fonts/Courier New.ttf"; sourceTree = "<group>"; };
 		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = "../node_modules/react-native/Libraries/Text/RCTText.xcodeproj"; sourceTree = "<group>"; };
-		9070B73779B2902FE2253E71 /* libPods-OrigamiMobileCenter-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrigamiMobileCenter-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A53BCE2EC0399462208B148A /* Pods-OrigamiMobileCenter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrigamiMobileCenter.debug.xcconfig"; path = "Pods/Target Support Files/Pods-OrigamiMobileCenter/Pods-OrigamiMobileCenter.debug.xcconfig"; sourceTree = "<group>"; };
-		B5FCBB9439D7496B91E8FFDA /* MobileCenter-Config.plist */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = text.plist.xml; name = "MobileCenter-Config.plist"; path = "OrigamiMobileCenter/MobileCenter-Config.plist"; sourceTree = "<group>"; };
-		CA6E5D72DAA07B8A63DED5C4 /* Pods-OrigamiMobileCenter-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrigamiMobileCenter-tvOSTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-OrigamiMobileCenter-tvOSTests/Pods-OrigamiMobileCenter-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		D4F88964B67BD85656453898 /* libPods-OrigamiMobileCenter-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrigamiMobileCenter-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D96F4B3B500646BE97BF9145 /* RNAnalytics.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = RNAnalytics.xcodeproj; path = "../node_modules/mobile-center-analytics/ios/RNAnalytics.xcodeproj"; sourceTree = "<group>"; };
-		D99496833085004CC538BDB6 /* Pods-OrigamiMobileCenter-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrigamiMobileCenter-tvOSTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-OrigamiMobileCenter-tvOSTests/Pods-OrigamiMobileCenter-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		E4187D8BD10797208897A2E1 /* Pods-OrigamiMobileCenter-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrigamiMobileCenter-tvOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-OrigamiMobileCenter-tvOS/Pods-OrigamiMobileCenter-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		F336C472F732D085981EB001 /* Pods-OrigamiMobileCenterTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrigamiMobileCenterTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-OrigamiMobileCenterTests/Pods-OrigamiMobileCenterTests.release.xcconfig"; sourceTree = "<group>"; };
+		857539D5990F58C7EF178FFA /* Pods-OrigamiMobileCenter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrigamiMobileCenter.debug.xcconfig"; path = "Pods/Target Support Files/Pods-OrigamiMobileCenter/Pods-OrigamiMobileCenter.debug.xcconfig"; sourceTree = "<group>"; };
+		867B46E5B23D40F4B63109EE /* Times New Roman.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Times New Roman.ttf"; path = "../node_modules/native-base/Fonts/Times New Roman.ttf"; sourceTree = "<group>"; };
+		8B10A19585075F3C18E1343E /* Pods-OrigamiMobileCenter-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrigamiMobileCenter-tvOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-OrigamiMobileCenter-tvOS/Pods-OrigamiMobileCenter-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		8DB13F99C35A4BEE893D41F1 /* Rubik-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Rubik-Bold.ttf"; path = "../node_modules/native-base/Fonts/Rubik-Bold.ttf"; sourceTree = "<group>"; };
+		96111E73272A46FCAB1D5292 /* Microsoft Sans Serif.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Microsoft Sans Serif.ttf"; path = "../node_modules/native-base/Fonts/Microsoft Sans Serif.ttf"; sourceTree = "<group>"; };
+		97DF665A08616C510901C29D /* Pods-OrigamiMobileCenterTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrigamiMobileCenterTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-OrigamiMobileCenterTests/Pods-OrigamiMobileCenterTests.release.xcconfig"; sourceTree = "<group>"; };
+		A1E6005D049B43D386E2B9A7 /* MobileCenter-Config.plist */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = text.plist.xml; name = "MobileCenter-Config.plist"; path = "OrigamiMobileCenter/MobileCenter-Config.plist"; sourceTree = "<group>"; };
+		A2F32CA18A8C456A9EF351BB /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/native-base/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
+		A483BC5AF4C1462B9BED12EB /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/native-base/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
+		A6DFAF9D06004CBFA9ACB765 /* Rubik-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Rubik-LightItalic.ttf"; path = "../node_modules/native-base/Fonts/Rubik-LightItalic.ttf"; sourceTree = "<group>"; };
+		A73093D66206394790B009C2 /* Pods-OrigamiMobileCenter-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrigamiMobileCenter-tvOSTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-OrigamiMobileCenter-tvOSTests/Pods-OrigamiMobileCenter-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		B12B39BC34AFC00276119FE1 /* Pods-OrigamiMobileCenter-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrigamiMobileCenter-tvOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-OrigamiMobileCenter-tvOS/Pods-OrigamiMobileCenter-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		B78523A4ECDB4B908AB9F1FF /* RNAnalytics.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = RNAnalytics.xcodeproj; path = "../node_modules/mobile-center-analytics/ios/RNAnalytics.xcodeproj"; sourceTree = "<group>"; };
+		BB1815B3D77449CBA0B6FBAB /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/native-base/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
+		C9EC499100A0425F8E47EE70 /* Rubik-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Rubik-Regular.ttf"; path = "../node_modules/native-base/Fonts/Rubik-Regular.ttf"; sourceTree = "<group>"; };
+		CDFE3441B80746EB9BC5CAB3 /* Rubik-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Rubik-Light.ttf"; path = "../node_modules/native-base/Fonts/Rubik-Light.ttf"; sourceTree = "<group>"; };
+		DF24A8D3F69415A2F644BBE2 /* libPods-OrigamiMobileCenter.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrigamiMobileCenter.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E4BBB65250D44FC0A2DA51A6 /* SanFranciscoBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SanFranciscoBold.ttf; path = "../node_modules/native-base/Fonts/SanFranciscoBold.ttf"; sourceTree = "<group>"; };
+		EBBCF1EDB833422B8F7F2423 /* Rubik-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Rubik-Italic.ttf"; path = "../node_modules/native-base/Fonts/Rubik-Italic.ttf"; sourceTree = "<group>"; };
+		ECA3692732814295853DD84C /* SanFrancisco.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SanFrancisco.ttf; path = "../node_modules/native-base/Fonts/SanFrancisco.ttf"; sourceTree = "<group>"; };
+		F35D14597F2EFE258965714C /* Pods-OrigamiMobileCenterTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrigamiMobileCenterTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-OrigamiMobileCenterTests/Pods-OrigamiMobileCenterTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -291,7 +371,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				140ED2AC1D01E1AD002B40FF /* libReact.a in Frameworks */,
-				7E0548FBCCABF89820AB2D53 /* libPods-OrigamiMobileCenterTests.a in Frameworks */,
+				E6677B9A0881A82E00E0B696 /* libPods-OrigamiMobileCenterTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,8 +390,9 @@
 				832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */,
 				00C302EA1ABCBA2D00DB3ED1 /* libRCTVibration.a in Frameworks */,
 				139FDEF61B0652A700C62182 /* libRCTWebSocket.a in Frameworks */,
-				7FC500B20D8344E1A82B959E /* libRNAnalytics.a in Frameworks */,
-				A332E22B8C6383197876768C /* libPods-OrigamiMobileCenter.a in Frameworks */,
+				EA584410946D4DE09B685DCF /* libRNAnalytics.a in Frameworks */,
+				7A4D0337016453EDAC63A08B /* libPods-OrigamiMobileCenter.a in Frameworks */,
+				6352BD9903254711A3CD496A /* libRNCrashes.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -327,7 +408,7 @@
 				2D02E4C61E0B4AEC006451C7 /* libRCTSettings-tvOS.a in Frameworks */,
 				2D02E4C71E0B4AEC006451C7 /* libRCTText-tvOS.a in Frameworks */,
 				2D02E4C81E0B4AEC006451C7 /* libRCTWebSocket-tvOS.a in Frameworks */,
-				996E40B21994D7CD4A8F8F21 /* libPods-OrigamiMobileCenter-tvOS.a in Frameworks */,
+				CB62FE442B15CF5AE3E5AC52 /* libPods-OrigamiMobileCenter-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -335,7 +416,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				098E360237D05F5C458BE4BB /* libPods-OrigamiMobileCenter-tvOSTests.a in Frameworks */,
+				C9727502E3279FC25F51FA27 /* libPods-OrigamiMobileCenter-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -448,6 +529,17 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		240F05CA5330E4F5D068632A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				DF24A8D3F69415A2F644BBE2 /* libPods-OrigamiMobileCenter.a */,
+				0B30428A7D8F6CD9B8716BF0 /* libPods-OrigamiMobileCenter-tvOS.a */,
+				7BDEFEADA71F23391F075092 /* libPods-OrigamiMobileCenter-tvOSTests.a */,
+				1CC5FBEEED41FCEBD8230F16 /* libPods-OrigamiMobileCenterTests.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		5E91572E1DD0AC6500FF2AA8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -480,7 +572,8 @@
 				832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */,
 				00C302DF1ABCB9EE00DB3ED1 /* RCTVibration.xcodeproj */,
 				139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */,
-				D96F4B3B500646BE97BF9145 /* RNAnalytics.xcodeproj */,
+				B78523A4ECDB4B908AB9F1FF /* RNAnalytics.xcodeproj */,
+				5D1C4FA9E8254F43B4CD4545 /* RNCrashes.xcodeproj */,
 			);
 			name = Libraries;
 			sourceTree = "<group>";
@@ -501,9 +594,10 @@
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* OrigamiMobileCenterTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
-				B5FCBB9439D7496B91E8FFDA /* MobileCenter-Config.plist */,
-				895A5719511CE2B4957E8F65 /* Pods */,
-				8F8DA90F6CE769A3F08F42EB /* Frameworks */,
+				A1E6005D049B43D386E2B9A7 /* MobileCenter-Config.plist */,
+				A580A8AFA92E93E368350B8D /* Pods */,
+				240F05CA5330E4F5D068632A /* Frameworks */,
+				C9ED7609BB5F4D6BA4D87EA6 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -520,38 +614,77 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		895A5719511CE2B4957E8F65 /* Pods */ = {
+		945D1F251ED43BEB0073EBDD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A53BCE2EC0399462208B148A /* Pods-OrigamiMobileCenter.debug.xcconfig */,
-				6B0EF9970875CB0944F375E9 /* Pods-OrigamiMobileCenter.release.xcconfig */,
-				E4187D8BD10797208897A2E1 /* Pods-OrigamiMobileCenter-tvOS.debug.xcconfig */,
-				066868316D19248B0255AD9D /* Pods-OrigamiMobileCenter-tvOS.release.xcconfig */,
-				CA6E5D72DAA07B8A63DED5C4 /* Pods-OrigamiMobileCenter-tvOSTests.debug.xcconfig */,
-				D99496833085004CC538BDB6 /* Pods-OrigamiMobileCenter-tvOSTests.release.xcconfig */,
-				1A3F1DB2DD2777B3E3AA2CD7 /* Pods-OrigamiMobileCenterTests.debug.xcconfig */,
-				F336C472F732D085981EB001 /* Pods-OrigamiMobileCenterTests.release.xcconfig */,
+				945D1F421ED43BEB0073EBDD /* libRNAnalytics.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		945D1F671ED43C9B0073EBDD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				945D1F851ED43C9B0073EBDD /* libRNCrashes.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A580A8AFA92E93E368350B8D /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				857539D5990F58C7EF178FFA /* Pods-OrigamiMobileCenter.debug.xcconfig */,
+				29402443612D98DA8EF46622 /* Pods-OrigamiMobileCenter.release.xcconfig */,
+				B12B39BC34AFC00276119FE1 /* Pods-OrigamiMobileCenter-tvOS.debug.xcconfig */,
+				8B10A19585075F3C18E1343E /* Pods-OrigamiMobileCenter-tvOS.release.xcconfig */,
+				A73093D66206394790B009C2 /* Pods-OrigamiMobileCenter-tvOSTests.debug.xcconfig */,
+				6C77A803E72E7EE11964D677 /* Pods-OrigamiMobileCenter-tvOSTests.release.xcconfig */,
+				F35D14597F2EFE258965714C /* Pods-OrigamiMobileCenterTests.debug.xcconfig */,
+				97DF665A08616C510901C29D /* Pods-OrigamiMobileCenterTests.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		8F8DA90F6CE769A3F08F42EB /* Frameworks */ = {
+		C9ED7609BB5F4D6BA4D87EA6 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				42110704C30C41CB775C3DA6 /* libPods-OrigamiMobileCenter.a */,
-				9070B73779B2902FE2253E71 /* libPods-OrigamiMobileCenter-tvOS.a */,
-				D4F88964B67BD85656453898 /* libPods-OrigamiMobileCenter-tvOSTests.a */,
-				330F195D147F830478403C92 /* libPods-OrigamiMobileCenterTests.a */,
+				6B3B550196A54EE29E2CEF4B /* Andale Mono.ttf */,
+				6E8AB6661EBC4A6EADA08852 /* Arial Black.ttf */,
+				573D550EEE464A7784A37F97 /* Arial.ttf */,
+				09621A86CACC4E56A19D2933 /* Comic Sans MS.ttf */,
+				7F6DA26CE0834A14AC2D9000 /* Courier New.ttf */,
+				48AD1792C1EE4C3181D9F320 /* Entypo.ttf */,
+				BB1815B3D77449CBA0B6FBAB /* EvilIcons.ttf */,
+				A2F32CA18A8C456A9EF351BB /* FontAwesome.ttf */,
+				24A5C83646C0480AB3ED2380 /* Foundation.ttf */,
+				248281FFBB9447D5A1F11121 /* Georgia.ttf */,
+				6845D1FD733E4BB9B876458E /* Ionicons.ttf */,
+				09575834624443708ADE1E1A /* MaterialIcons.ttf */,
+				96111E73272A46FCAB1D5292 /* Microsoft Sans Serif.ttf */,
+				A483BC5AF4C1462B9BED12EB /* Octicons.ttf */,
+				0EB6BDA2949E472DA6C4E5C4 /* Roboto_medium.ttf */,
+				3A97D9C27C8E47B8B6C97022 /* Roboto.ttf */,
+				3FA28F52E01D49208ED84160 /* rubicon-icon-font.ttf */,
+				243AF5D8919A4D4E8DCCF343 /* Rubik-Black.ttf */,
+				074FB4B60D3F417B9788AE98 /* Rubik-BlackItalic.ttf */,
+				8DB13F99C35A4BEE893D41F1 /* Rubik-Bold.ttf */,
+				0E468071B5424C659738BD1A /* Rubik-BoldItalic.ttf */,
+				EBBCF1EDB833422B8F7F2423 /* Rubik-Italic.ttf */,
+				CDFE3441B80746EB9BC5CAB3 /* Rubik-Light.ttf */,
+				A6DFAF9D06004CBFA9ACB765 /* Rubik-LightItalic.ttf */,
+				78E47DCCE64B4EC1BA30F0B6 /* Rubik-Medium.ttf */,
+				5F235569FC1241FBB971962D /* Rubik-MediumItalic.ttf */,
+				C9EC499100A0425F8E47EE70 /* Rubik-Regular.ttf */,
+				ECA3692732814295853DD84C /* SanFrancisco.ttf */,
+				E4BBB65250D44FC0A2DA51A6 /* SanFranciscoBold.ttf */,
+				65E40591310A47D19FB83698 /* SanFranciscoThin.ttf */,
+				79F54220C1AA40A3853504C5 /* SF-UI-Text-Regular.otf */,
+				72F249C8119148598533BDCA /* SimpleLineIcons.ttf */,
+				2A163C0D88234E01A346644D /* Skia.ttf */,
+				867B46E5B23D40F4B63109EE /* Times New Roman.ttf */,
+				067DC2B983FD4B32B3DA8100 /* Zocial.ttf */,
 			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		94E963A41ECB2D7D002267C0 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				94E963C11ECB2D7D002267C0 /* libRNAnalytics.a */,
-			);
-			name = Products;
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -561,12 +694,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "OrigamiMobileCenterTests" */;
 			buildPhases = (
-				A96E234D3F00C850EDECB971 /* [CP] Check Pods Manifest.lock */,
+				50F00498F92269F29DBE496B /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				ED022AC9C1D90F22AA4B4958 /* [CP] Embed Pods Frameworks */,
-				F682F0696BD5629452E3CE78 /* [CP] Copy Pods Resources */,
+				7B927FDE03E5430AF2FB3FEB /* [CP] Embed Pods Frameworks */,
+				6658FDE5BE8B106AA379DC04 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -582,13 +715,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "OrigamiMobileCenter" */;
 			buildPhases = (
-				BF5952881B1F9EFC571B25B1 /* [CP] Check Pods Manifest.lock */,
+				5BB0CEFB632989CD3CF02DC3 /* [CP] Check Pods Manifest.lock */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				1A742F3669C03ABD14AC3472 /* [CP] Embed Pods Frameworks */,
-				7DAB7ECA31651FFA0AA8A563 /* [CP] Copy Pods Resources */,
+				0DBF2FC81695AC43BD131293 /* [CP] Embed Pods Frameworks */,
+				6AD739AAA445DB96165F8518 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -603,13 +736,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "OrigamiMobileCenter-tvOS" */;
 			buildPhases = (
-				A398C739AD69DB0103485B85 /* [CP] Check Pods Manifest.lock */,
+				70477806EBAAB896494B4059 /* [CP] Check Pods Manifest.lock */,
 				2D02E4771E0B4A5D006451C7 /* Sources */,
 				2D02E4781E0B4A5D006451C7 /* Frameworks */,
 				2D02E4791E0B4A5D006451C7 /* Resources */,
 				2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */,
-				E4586946963A9507D6E76A46 /* [CP] Embed Pods Frameworks */,
-				D4D6D165E1FA395500149787 /* [CP] Copy Pods Resources */,
+				B9FB926F3C4E6FAB294D3CE6 /* [CP] Embed Pods Frameworks */,
+				C7A2B8068B9385D5327991D3 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -624,12 +757,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "OrigamiMobileCenter-tvOSTests" */;
 			buildPhases = (
-				E4567365846452DF6EEE7016 /* [CP] Check Pods Manifest.lock */,
+				6A20E9DA47E3FF85E6626A23 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
 				2D02E48D1E0B4A5D006451C7 /* Frameworks */,
 				2D02E48E1E0B4A5D006451C7 /* Resources */,
-				2904FDDDDC44FC5978265598 /* [CP] Embed Pods Frameworks */,
-				B67ECF63E297178FD966FE35 /* [CP] Copy Pods Resources */,
+				93637DBDC67A7FEFF17AA3FD /* [CP] Embed Pods Frameworks */,
+				96906D0EF901899A06DCB773 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -653,12 +786,12 @@
 					00E356ED1AD99517003FC87E = {
 						CreatedOnToolsVersion = 6.2;
 						DevelopmentTeam = 3F25347H8E;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
 					13B07F861A680F5B00A75B9A = {
 						DevelopmentTeam = 3F25347H8E;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 					2D02E47A1E0B4A5D006451C7 = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -728,8 +861,12 @@
 					ProjectRef = 146833FF1AC3E56700842450 /* React.xcodeproj */;
 				},
 				{
-					ProductGroup = 94E963A41ECB2D7D002267C0 /* Products */;
-					ProjectRef = D96F4B3B500646BE97BF9145 /* RNAnalytics.xcodeproj */;
+					ProductGroup = 945D1F251ED43BEB0073EBDD /* Products */;
+					ProjectRef = B78523A4ECDB4B908AB9F1FF /* RNAnalytics.xcodeproj */;
+				},
+				{
+					ProductGroup = 945D1F671ED43C9B0073EBDD /* Products */;
+					ProjectRef = 5D1C4FA9E8254F43B4CD4545 /* RNCrashes.xcodeproj */;
 				},
 			);
 			projectRoot = "";
@@ -918,11 +1055,18 @@
 			remoteRef = 832341B41AAA6A8300B99B32 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		94E963C11ECB2D7D002267C0 /* libRNAnalytics.a */ = {
+		945D1F421ED43BEB0073EBDD /* libRNAnalytics.a */ = {
 			isa = PBXReferenceProxy;
 			fileType = archive.ar;
 			path = libRNAnalytics.a;
-			remoteRef = 94E963C01ECB2D7D002267C0 /* PBXContainerItemProxy */;
+			remoteRef = 945D1F411ED43BEB0073EBDD /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		945D1F851ED43C9B0073EBDD /* libRNCrashes.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libRNCrashes.a;
+			remoteRef = 945D1F841ED43C9B0073EBDD /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 /* End PBXReferenceProxy section */
@@ -941,7 +1085,42 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
-				4062E56AA48E4E5A8ABBFB5A /* MobileCenter-Config.plist in Resources */,
+				0DC32790A8224E8D9940ABB5 /* MobileCenter-Config.plist in Resources */,
+				E2BD14D6DF41471FBDB4B67A /* Andale Mono.ttf in Resources */,
+				D453AE37FDEB4E85AE11BE80 /* Arial Black.ttf in Resources */,
+				237C12A1BA6F485EA316773F /* Arial.ttf in Resources */,
+				7FA690FD2CE845C19F7E0A83 /* Comic Sans MS.ttf in Resources */,
+				314AE3E168634C8C81467357 /* Courier New.ttf in Resources */,
+				A954467602D245C28F7596CF /* Entypo.ttf in Resources */,
+				31AD6BBC0C5E4D2D978F2BF4 /* EvilIcons.ttf in Resources */,
+				439F1E536D904022ABFA8E2E /* FontAwesome.ttf in Resources */,
+				0F84A9D168D34DA7BAA2FE5D /* Foundation.ttf in Resources */,
+				F71EF4A08A5244AC954EA32F /* Georgia.ttf in Resources */,
+				737D854588E74521BC0A4247 /* Ionicons.ttf in Resources */,
+				974131CF20F34858B02ADB73 /* MaterialIcons.ttf in Resources */,
+				483D197B88334A52A28864BF /* Microsoft Sans Serif.ttf in Resources */,
+				707946B8BD5949C1BD895E31 /* Octicons.ttf in Resources */,
+				0473C17E77C941E0BD35D371 /* Roboto_medium.ttf in Resources */,
+				0A5A7936792C46139C6E0EAF /* Roboto.ttf in Resources */,
+				A48C663EB65543458F23D17F /* rubicon-icon-font.ttf in Resources */,
+				5A9DFCEA3F874E6D93E0433C /* Rubik-Black.ttf in Resources */,
+				97DCE18AA8924A55BDBE0FB9 /* Rubik-BlackItalic.ttf in Resources */,
+				07CA841EE6B340F78BCFB4DB /* Rubik-Bold.ttf in Resources */,
+				0688E236CDA64AE49429B716 /* Rubik-BoldItalic.ttf in Resources */,
+				38BAC9BAD02748229B46EA2D /* Rubik-Italic.ttf in Resources */,
+				BB78EBE575DA40F6B1B80588 /* Rubik-Light.ttf in Resources */,
+				4773246AF3D445E38C5ABE8E /* Rubik-LightItalic.ttf in Resources */,
+				2D277CE7D1EE47549A3FA875 /* Rubik-Medium.ttf in Resources */,
+				0BEF0834C2414669BFA6C85E /* Rubik-MediumItalic.ttf in Resources */,
+				9B33BC2B6E3B4B1DA7A66172 /* Rubik-Regular.ttf in Resources */,
+				2E16160980E947EAA6AA2B09 /* SanFrancisco.ttf in Resources */,
+				9D2E85368524498696D6EDD5 /* SanFranciscoBold.ttf in Resources */,
+				C32C1668C42A4048AAAFAF99 /* SanFranciscoThin.ttf in Resources */,
+				AF002B64DFE947A4AFDEB9F2 /* SF-UI-Text-Regular.otf in Resources */,
+				C3F9B63CE73E4CCF9D05A642 /* SimpleLineIcons.ttf in Resources */,
+				4C583357D4EA4D95A8EA4FC2 /* Skia.ttf in Resources */,
+				D3168AB27E0F4EB2B4FC0D9F /* Times New Roman.ttf in Resources */,
+				97AD98B8B678464B9DF140AE /* Zocial.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -977,7 +1156,7 @@
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/packager/react-native-xcode.sh";
 		};
-		1A742F3669C03ABD14AC3472 /* [CP] Embed Pods Frameworks */ = {
+		0DBF2FC81695AC43BD131293 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -990,21 +1169,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OrigamiMobileCenter/Pods-OrigamiMobileCenter-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		2904FDDDDC44FC5978265598 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OrigamiMobileCenter-tvOSTests/Pods-OrigamiMobileCenter-tvOSTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */ = {
@@ -1021,7 +1185,67 @@
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/packager/react-native-xcode.sh";
 		};
-		7DAB7ECA31651FFA0AA8A563 /* [CP] Copy Pods Resources */ = {
+		50F00498F92269F29DBE496B /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		5BB0CEFB632989CD3CF02DC3 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		6658FDE5BE8B106AA379DC04 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OrigamiMobileCenterTests/Pods-OrigamiMobileCenterTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6A20E9DA47E3FF85E6626A23 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		6AD739AAA445DB96165F8518 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1036,7 +1260,7 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OrigamiMobileCenter/Pods-OrigamiMobileCenter-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		A398C739AD69DB0103485B85 /* [CP] Check Pods Manifest.lock */ = {
+		70477806EBAAB896494B4059 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1051,97 +1275,7 @@
 			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
-		A96E234D3F00C850EDECB971 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		B67ECF63E297178FD966FE35 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OrigamiMobileCenter-tvOSTests/Pods-OrigamiMobileCenter-tvOSTests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		BF5952881B1F9EFC571B25B1 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		D4D6D165E1FA395500149787 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OrigamiMobileCenter-tvOS/Pods-OrigamiMobileCenter-tvOS-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		E4567365846452DF6EEE7016 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		E4586946963A9507D6E76A46 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OrigamiMobileCenter-tvOS/Pods-OrigamiMobileCenter-tvOS-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		ED022AC9C1D90F22AA4B4958 /* [CP] Embed Pods Frameworks */ = {
+		7B927FDE03E5430AF2FB3FEB /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1156,7 +1290,22 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OrigamiMobileCenterTests/Pods-OrigamiMobileCenterTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		F682F0696BD5629452E3CE78 /* [CP] Copy Pods Resources */ = {
+		93637DBDC67A7FEFF17AA3FD /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OrigamiMobileCenter-tvOSTests/Pods-OrigamiMobileCenter-tvOSTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		96906D0EF901899A06DCB773 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1168,7 +1317,37 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OrigamiMobileCenterTests/Pods-OrigamiMobileCenterTests-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OrigamiMobileCenter-tvOSTests/Pods-OrigamiMobileCenter-tvOSTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B9FB926F3C4E6FAB294D3CE6 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OrigamiMobileCenter-tvOS/Pods-OrigamiMobileCenter-tvOS-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C7A2B8068B9385D5327991D3 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-OrigamiMobileCenter-tvOS/Pods-OrigamiMobileCenter-tvOS-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -1238,10 +1417,9 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1A3F1DB2DD2777B3E3AA2CD7 /* Pods-OrigamiMobileCenterTests.debug.xcconfig */;
+			baseConfigurationReference = F35D14597F2EFE258965714C /* Pods-OrigamiMobileCenterTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 3F25347H8E;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
@@ -1250,12 +1428,14 @@
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/mobile-center-analytics/ios/RNAnalytics",
+					"$(SRCROOT)/../node_modules/mobile-center-crashes/ios/RNCrashes",
 				);
 				INFOPLIST_FILE = OrigamiMobileCenterTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 				OTHER_LDFLAGS = (
@@ -1270,21 +1450,22 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F336C472F732D085981EB001 /* Pods-OrigamiMobileCenterTests.release.xcconfig */;
+			baseConfigurationReference = 97DF665A08616C510901C29D /* Pods-OrigamiMobileCenterTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEVELOPMENT_TEAM = 3F25347H8E;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/mobile-center-analytics/ios/RNAnalytics",
+					"$(SRCROOT)/../node_modules/mobile-center-crashes/ios/RNCrashes",
 				);
 				INFOPLIST_FILE = OrigamiMobileCenterTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 				OTHER_LDFLAGS = (
@@ -1299,21 +1480,19 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A53BCE2EC0399462208B148A /* Pods-OrigamiMobileCenter.debug.xcconfig */;
+			baseConfigurationReference = 857539D5990F58C7EF178FFA /* Pods-OrigamiMobileCenter.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
 				DEVELOPMENT_TEAM = 3F25347H8E;
-				ENABLE_BITCODE = NO;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/mobile-center-analytics/ios/RNAnalytics",
+					"$(SRCROOT)/../node_modules/mobile-center-crashes/ios/RNCrashes",
 				);
 				INFOPLIST_FILE = OrigamiMobileCenter/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -1322,26 +1501,26 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = io.market.nativebase.geekyants.origamimobilecenter;
 				PRODUCT_NAME = OrigamiMobileCenter;
+				PROVISIONING_PROFILE = "b20cecc3-c511-4f91-9ee9-749c1fece99f";
+				PROVISIONING_PROFILE_SPECIFIER = io.market.nativebase.geekyants.origamimobilecenter;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6B0EF9970875CB0944F375E9 /* Pods-OrigamiMobileCenter.release.xcconfig */;
+			baseConfigurationReference = 29402443612D98DA8EF46622 /* Pods-OrigamiMobileCenter.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 3F25347H8E;
-				ENABLE_BITCODE = NO;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/mobile-center-analytics/ios/RNAnalytics",
+					"$(SRCROOT)/../node_modules/mobile-center-crashes/ios/RNCrashes",
 				);
 				INFOPLIST_FILE = OrigamiMobileCenter/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -1350,13 +1529,15 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = io.market.nativebase.geekyants.origamimobilecenter;
 				PRODUCT_NAME = OrigamiMobileCenter;
+				PROVISIONING_PROFILE = "b20cecc3-c511-4f91-9ee9-749c1fece99f";
+				PROVISIONING_PROFILE_SPECIFIER = io.market.nativebase.geekyants.origamimobilecenter;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E4187D8BD10797208897A2E1 /* Pods-OrigamiMobileCenter-tvOS.debug.xcconfig */;
+			baseConfigurationReference = B12B39BC34AFC00276119FE1 /* Pods-OrigamiMobileCenter-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -1370,11 +1551,13 @@
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/mobile-center-analytics/ios/RNAnalytics",
+					"$(SRCROOT)/../node_modules/mobile-center-crashes/ios/RNCrashes",
 				);
 				INFOPLIST_FILE = "OrigamiMobileCenter-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 				OTHER_LDFLAGS = (
@@ -1391,7 +1574,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 066868316D19248B0255AD9D /* Pods-OrigamiMobileCenter-tvOS.release.xcconfig */;
+			baseConfigurationReference = 8B10A19585075F3C18E1343E /* Pods-OrigamiMobileCenter-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -1405,11 +1588,13 @@
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/mobile-center-analytics/ios/RNAnalytics",
+					"$(SRCROOT)/../node_modules/mobile-center-crashes/ios/RNCrashes",
 				);
 				INFOPLIST_FILE = "OrigamiMobileCenter-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 				OTHER_LDFLAGS = (
@@ -1426,7 +1611,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CA6E5D72DAA07B8A63DED5C4 /* Pods-OrigamiMobileCenter-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = A73093D66206394790B009C2 /* Pods-OrigamiMobileCenter-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -1441,6 +1626,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.OrigamiMobileCenter-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -1452,7 +1638,7 @@
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D99496833085004CC538BDB6 /* Pods-OrigamiMobileCenter-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 6C77A803E72E7EE11964D677 /* Pods-OrigamiMobileCenter-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -1466,6 +1652,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.OrigamiMobileCenter-tvOSTests";

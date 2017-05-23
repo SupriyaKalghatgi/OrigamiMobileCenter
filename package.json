@@ -9,8 +9,10 @@
   "dependencies": {
     "mobile-center-analytics": "^0.4.0",
     "mobile-center-crashes": "^0.4.0",
+    "native-base": "2.1.4",
     "react": "16.0.0-alpha.6",
-    "react-native": "0.44.0"
+    "react-native": "0.44.0",
+    "react-native-easy-grid": "https://github.com/GeekyAnts/react-native-easy-grid#master"
   },
   "devDependencies": {
     "babel-jest": "20.0.1",

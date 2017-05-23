@@ -3,129 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="/Users/supriya/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_c10949f61924af228a94598d4eb6dc1a42120e0f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/jars/libs/infer-annotations-1.5.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/infer-annotations-1.5_f98fcabf5840aba6d0ba4e9e85042b8fa7d3237d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile/mobile-center/0.6.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="fcf3e79df335a683fbf0d1889d7eb4787e1c7149">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/com.microsoft.azure.mobile-mobile-center-0.6.1_2986292d1f8cca2b950524e3efcaaf827be51778.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/supriya/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_4035c048eafdea7a13e9f0aa56f223b9007f53a3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-1.0.1_b19816f0b1ff973893b4831ad7eddb2690596139.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/supriya/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/okhttp-ws-3.4.1_ae0c3e6537064345afd1baa58d0f0a438ff53843.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_a47402cb5ed89d98ed38d93e007da459c6a57620.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/supriya/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_737894621e4d17bdd6e56aa73f35bde97ce531e3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.0.1_961f40732538d21b875710a0d0ecfa68e7f0382a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fbcore-1.0.1_30b1317fc9b8c9520d6a11647bcfa1dbec75daf3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/supriya/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/okhttp-3.4.1_ed3b2557ca568753dcd95b98de72b477fb3fd002.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_a39365dde5f9d5bcdee9ae5ea2442a5316460b2a.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-drawee-1.0.1_63cef67b3f91219806bc09b0ff4340e6d30187f3.jar" />
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_63cef67b3f91219806bc09b0ff4340e6d30187f3.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jar="/Users/supriya/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1_83cbd8867bbfafb64844edcdc4bcc0a8099d3359.jar" />
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_c10949f61924af228a94598d4eb6dc1a42120e0f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -134,16 +26,25 @@
         optimize="true"
         revision="23.0.1"
         sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fresco-1.0.1_b26f5623fa6f23ee98b0f0cb8fc0e1d8cefba968.jar" />
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_b26f5623fa6f23ee98b0f0cb8fc0e1d8cefba968.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/jars/classes.jar"
+        jar="/Users/supriya/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/com.facebook.react-react-native-0.44.0_cd00ffe8e03a5fa7615de75c399ed9735313e915.jar" />
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_4035c048eafdea7a13e9f0aa56f223b9007f53a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_4b317d5a88c90458a35c657bbd768ecabe10cd00.jar" />
     </item>
     <item
         is-multidex="false"
@@ -152,7 +53,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/com.facebook.soloader-soloader-0.1.0_561ed1a68635801dd046e399848176897a4e6ad4.jar" />
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_561ed1a68635801dd046e399848176897a4e6ad4.jar" />
     </item>
     <item
         is-multidex="false"
@@ -161,7 +62,16 @@
         optimize="true"
         revision="23.0.1"
         sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-base-1.0.1_c2264ee9de91431f77a0479fd8235d21f3e5f350.jar" />
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_c2264ee9de91431f77a0479fd8235d21f3e5f350.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_b19816f0b1ff973893b4831ad7eddb2690596139.jar" />
     </item>
     <item
         is-multidex="false"
@@ -170,7 +80,16 @@
         optimize="true"
         revision="23.0.1"
         sha1="63994437f62bc861bc20c605d12962f7246116d1">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.4.1_d0bb3f762e6acd8b0e11ee12922515bcf31b69a8.jar" />
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_d0bb3f762e6acd8b0e11ee12922515bcf31b69a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_9f98d4a1837548279d6fa9058940f413eb362638.jar" />
     </item>
     <item
         is-multidex="false"
@@ -179,34 +98,88 @@
         optimize="true"
         revision="23.0.1"
         sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/okio-1.9.0_752c1ccc0c74fe7d79e1074ffe5365658ebf2282.jar" />
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_752c1ccc0c74fe7d79e1074ffe5365658ebf2282.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jar="/Users/supriya/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1_dfb2b82a29a2685c2c105328a7a9feeaa2715c30.jar" />
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_ae0c3e6537064345afd1baa58d0f0a438ff53843.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile.react/mobile-center-react-native/0.3.0/jars/classes.jar"
+        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="93722ea78920eb89b85792b641e6ca04126e3716">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/com.microsoft.azure.mobile.react-mobile-center-react-native-0.3.0_8da3e58441f7e89a8aef961d47d83a15473fc934.jar" />
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_a47402cb5ed89d98ed38d93e007da459c6a57620.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile/mobile-center-analytics/0.6.1/jars/classes.jar"
+        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="af6fefc2d09be2e781e90b4c54f21a1737735de4">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/com.microsoft.azure.mobile-mobile-center-analytics-0.6.1_17a5ccb2ecf066b3339c9014c07985ec0f2d1da9.jar" />
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_86ed65279a1928735f76474f6cf5ef8e6b87f2dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_737894621e4d17bdd6e56aa73f35bde97ce531e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_30b1317fc9b8c9520d6a11647bcfa1dbec75daf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_ed3b2557ca568753dcd95b98de72b477fb3fd002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_a39365dde5f9d5bcdee9ae5ea2442a5316460b2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_cff744a20a183c3ee3bde7040286b1eb5bb3626e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="28964a93b5eafbe660a5b51e5964d2e66aa45395">
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.43.3_56ef99524cbd4ce9b8ec4a5d2c03e2bdee15bef1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -215,7 +188,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/javax.inject-1_219aff43ada2cd4c27e76000efab381159d2c772.jar" />
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_219aff43ada2cd4c27e76000efab381159d2c772.jar" />
     </item>
     <item
         is-multidex="false"
@@ -224,16 +197,16 @@
         optimize="true"
         revision="23.0.1"
         sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.0.1_b303d77ead0c9a5227d8e5420c454912ac70aa7a.jar" />
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_b303d77ead0c9a5227d8e5420c454912ac70aa7a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/OrigamiMobileCenter/mobile-center-analytics/unspecified/jars/classes.jar"
+        jar="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.3/jars/libs/infer-annotations-1.5.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="5996de913c924b593698151c2a9a602b4746f459">
-        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/release/OrigamiMobileCenter-mobile-center-analytics-unspecified_20a5e6355a9e5fd8eea3b0d90bda3ed7eb9525f4.jar" />
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Volumes/Supriya/projects/GitStrap/OrigamiMobileCenter/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_12771adc6d945d723a63a610ded4be89fd67be1a.jar" />
     </item>
 
 </items>

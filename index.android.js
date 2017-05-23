@@ -8,28 +8,30 @@ import React, { Component } from 'react';
 import {
   AppRegistry,
   StyleSheet,
-  Text,
   View
 } from 'react-native';
+
+import {Button,Body,Container,Content,Footer,FooterTab,Icon,Text} from 'native-base';
 
 export default class OrigamiMobileCenter extends Component {
   render() {
     return (
-      <View style={styles.container}>
+      <Container style={styles.container}>
+        <Content>
         <Text style={styles.welcome}>
           GeekyAnts
         </Text>
         <Text style={styles.instructions}>
           Origami
         </Text>
-      </View>
+        </Content>
+      </Container>
     );
   }
 }
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: '#F5FCFF',
